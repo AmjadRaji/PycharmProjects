@@ -1,7 +1,7 @@
-adj1 = input("Type an adjective: ")
-noun1 = input("Type a plural noun: ")
-noun2 = input("Type a singular noun: ")
-adj2 = input("Type another adjective: ")
+color = input("Enter a color: ")
+flower = input("Enter a flower: ")
+celeb = input("Enter a celebrity: ")
 
-print(adj1, noun1, noun2, adj2)
-
+print("Roses are " + color)
+print(flower + " are blue")
+print("I love " + celeb)
